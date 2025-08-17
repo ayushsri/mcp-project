@@ -1,0 +1,9 @@
+{
+  "name": "mcp-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Multi-Component Project template for GitHub.",
+  "scripts": {
+    "test": "node tests/test-component-a.js && node tests/test-component-b.js && node tests/test-component-c.js"
+  }
+}
